@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -87,6 +88,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -120,5 +122,8 @@
       }
     }
   },
-  "defaultProject": "assignment-app"
+  "defaultProject": "assignment-app",
+  "cli": {
+    "analytics": "8c94e24e-b87c-46a1-ba5a-4d8e3d44d8ec"
+  }
 }
